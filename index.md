@@ -16,7 +16,12 @@ MathJax.Hub.Config({
 });
 </script>
 
-> *[Letters to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
+> And as he errs, doting on Hermia’s eyes    
+[So I](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond), admiring of his *qualities*.                  
+Things base and vile, holding no *quantity*          
+Love can transpose to form and dignity                        
+         
+> ... Nor hath love’s mind of any [judgment taste](https://monoskop.org/images/e/e0/Pierre_Bourdieu_Distinction_A_Social_Critique_of_the_Judgement_of_Taste_1984.pdf)        
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
@@ -35,7 +40,7 @@ MathJax.Hub.Config({
 #
 ![Diminishing Marginal Utility](https://abikesa.github.io/johnadams/diminishing_marginalutility.png)
 
-> [Palates evolve from infancy to adulthood and late age](https://abikesa.github.io/johnadams/)    
+> [Palates evolve](https://abikesa.github.io/johnadams/) [from infancy to adulthood and late age](https://www.gutenberg.org/files/1514/1514-h/1514-h.htm)    
 One thus needs evolving challenges to match them    
 Worthy adversaries to test and engage these tastes    
 The embrace of more remote overtones of the harmonic series    
