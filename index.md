@@ -44,7 +44,7 @@ Love can transpose to form and dignity
 One thus needs evolving challenges to match them    
 Worthy adversaries to test and engage these tastes    
 The embrace of more remote overtones of the harmonic series    
-[*La Distinction*](https://en.wikipedia.org/wiki/Distinction_(book)) or ***Q**ualities* of Taste, Judgment and Capital   
+[*La Distinction*](https://en.wikipedia.org/wiki/Distinction_(book)) or ***Q**ualities* of Taste, Judgment and [Capital](https://www.youtube.com/watch?v=xl9XI_LvkHg)  
 
 ![](https://abikesa.github.io/johnadams/diminishing_returns_wsj.jpg)
 
