@@ -35,11 +35,11 @@ MathJax.Hub.Config({
 #
 ![Diminishing Marginal Utility](https://abikesa.github.io/johnadams/diminishing_marginalutility.png)
 
-> [Palates evolve](https://abikesa.github.io/johnadams/)
-One thus needs evolving challenges to match them
-Worthy adversaries to test and engage these tastes
-The embrace of more remote overtones of the harmonic series
-[*La Distinction*](https://en.wikipedia.org/wiki/Distinction_(book)) or ***Q**ualities* of Taste, Judgment, Acts
+> [Palates evolve](https://abikesa.github.io/johnadams/)    
+One thus needs evolving challenges to match them    
+Worthy adversaries to test and engage these tastes    
+The embrace of more remote overtones of the harmonic series    
+[*La Distinction*](https://en.wikipedia.org/wiki/Distinction_(book)) or ***Q**ualities* of Taste, Judgment, Acts    
 
 ![](https://abikesa.github.io/johnadams/diminishing_returns_wsj.jpg)
 
